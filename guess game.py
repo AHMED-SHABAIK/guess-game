@@ -1,4 +1,4 @@
-print ('please think of a number between 0 and 100!')
+print ('please think of a number between 0 and 99!')
 low = 0 
 high = 100 
 med = (high + low ) // 2
